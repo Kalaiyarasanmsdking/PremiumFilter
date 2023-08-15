@@ -1,12 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+TᴀᴍɪʟᴀɴBᴏᴛsZ+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
+![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MADE+WITH+%40MoviesLinkZzprime)](https://git.io/typing-svg))</p>
 <p align="center">
-  <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="Awesome Filter Logo">
+  <img src="https://avatars.githubusercontent.com/u/142278664?s=400&u=ca6be42d16de27cbbab451c25a9f9a24ddcdf9b2&v=4" alt="Awesome Filter Logo">
   </p>
   <h1 align="center">
     <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
     </h1>
 
-# 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ TᴀᴍɪʟᴀɴBᴏᴛsZ
+# 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ @MoviesLinkZzprime
 
 🌟 <b>Fᴏʀᴋ & Sᴛᴀʀ Nᴏᴡ</b> 💥
 
@@ -74,7 +74,7 @@ Cᴀɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ ﹖ Sᴇᴇ SᴄʀᴇᴇɴSʜᴏᴛ 👇
 ## Dᴇᴘᴏʟʏ
 Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 
-<a href=https://github.com/TamilanBotsZ/PremiumFilter/blob/Tamilans-Working-Branch/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
+<a href=https://github.com/Adhithyavurma/MoviesLinkZzprime-Working-Branch/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
 
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
 <p>
@@ -152,7 +152,7 @@ link - 🖇️ ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
 
 ## Cʀᴇᴅɪᴛs
-Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
+Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![@MoviesLinkZzprime-Mᴇ](https://img.shields.io/static/v1?label=@MoviesLinkZzprime&message=devs&color=critical)](https://t.me/MoviesLinkZzprime)
 
 ## Tʜᴀɴᴋs Tᴏ 
  <b>- Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
