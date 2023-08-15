@@ -1,6 +1,6 @@
 ![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MADE+WITH+%40MoviesLinkZzprime)](https://git.io/typing-svg))</p>
 <p align="center">
-  <img src="blob:https://web.telegram.org/e609ffb8-411d-4a93-8d0c-6e708f151ed5" alt="Awesome Filter Logo">
+  <img src=" " alt="Awesome Filter Logo">
   </p>
   <h1 align="center">
     <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
